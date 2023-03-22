@@ -1,3 +1,8 @@
 {
+  "origins": [
+    "https://home.tailbafc4.ts.net",
+    "https://www.watchdict.com",
+    "https://watchdict.com"
+  ],
   "defaultCommentOrder": "newest"
 }
